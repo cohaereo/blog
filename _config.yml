@@ -24,7 +24,7 @@ github_username: cohaereo
 
 # Build settings
 markdown: kramdown
-theme: jekyll-dash
+remote_theme: bitbrain/jekyll-dash
 plugins:
   - jekyll-feed
 
